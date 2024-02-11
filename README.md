@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gulshan Panwar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning skills reuired to be a excellent and successful web developer
-- 💞️ I’m looking to collaborate on web development projects.
+- 👀 I’m interested in Web3 and Blockchain Development
+- 🌱 I’m currently learning skills reuired to be a excellent and successful  developer
+- 💞️ I’m looking to collaborate on Web3 and Blockchain development projects.
 - 📫 How to reach me ...
 
 <!---
